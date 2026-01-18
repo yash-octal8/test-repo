@@ -1,0 +1,9 @@
+1) helper fn, redux fn, must start with __listen and after function name like
+__listenFunctionName
+
+2) in the Utils/Constant.js
+define constant like camel case
+CONSTANT_NAME = 
+
+3) 
+ 
